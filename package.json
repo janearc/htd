@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/janearc/htd"
   },
+  "dependencies": {
+    "deep-grep": ">=0.4.2"
+  },
   "keywords": [
     "signals",
     "posix",
@@ -19,7 +22,7 @@
     "sigtrap",
     "sigpoll"
   ],
-  "author": "Jane Avriette <jane.avriette@gsa.gov> (http://deepthoughts.feminist.pw/)",
+  "author": "Jane Arc <jane@cpan.org> (https://github.com/janearc/)",
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/janearc/htd/issues"
