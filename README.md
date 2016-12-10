@@ -9,7 +9,7 @@ well as between e.g., SPARC and MIPS.
 
 so while i don't personally *know* anybody writing javascript on IRIX, It's
 rude to release software that is so hardware- or kernel-centric as to ignore
-our brothers and sisters on different Unixes.
+our fellow programmers on different Unixes.
 
 accordingly, i wrote this package. it converts between signal names and numbers
 on HP, SPARC, MIPS, i386 (and by extension x64), and PowerPC/POWER. it also
