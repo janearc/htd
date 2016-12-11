@@ -1,6 +1,6 @@
 {
   "name": "htd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "How to die on Unix (POSIX signals)",
   "main": "lib/htd.js",
   "scripts": {
